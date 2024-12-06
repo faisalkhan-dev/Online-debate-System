@@ -58,11 +58,3 @@ We welcome contributions to the Dekho project! If you'd like to contribute, plea
 3. Commit your changes (`git commit -am 'Add feature'`).
 4. Push to your branch (`git push origin feature-name`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the Dekho project. We hope you enjoy debating with others or AI!
